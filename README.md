@@ -82,13 +82,13 @@
 ## 🖼️ 模型示意
 
 ## 模型总体结构
-![Model Overview](Model_Overview.png)
+![Model Overview](images/Model_Overview.png)
 
 ## 系统结构
-![System Overview](System_Overview.png)
+![System Overview](images/System_Overview.png)
 
 ## 输出电压波形
-![Vout](Vout_Waveform.png)
+![Vout](images/Vout_Waveform.png)
 
 
 ---
