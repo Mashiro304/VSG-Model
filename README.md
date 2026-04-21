@@ -81,39 +81,24 @@
 
 ## 🖼️ 模型示意
 
-（建议在此处插入你的Simulink截图）
-
-```
 ## 模型总体结构
-![Model Overview](Model Overview.png)
+![Model Overview](Model_Overview.png)
 
 ## 系统结构
-![System Overview](Stytem Overview.png)
+![System Overview](System_Overview.png)
 
 ## 输出电压波形
-![Vout](Vout Waveform.png)
-```
+![Vout](Vout_Waveform.png)
+
 
 ---
 
 ## 🚀 如何运行
 
-1. 安装 MATLAB（建议 R2021 及以上）
+1. 安装 MATLAB（建议 R2024 及以上）
 2. 打开项目中的 `.slx` 文件
 3. 点击“Run”运行仿真
 4. 通过Scope观察输出波形
-
----
-
-## 📂 项目结构
-
-```
-├── model/
-│   └── VSG_Inverter.slx
-├── docs/
-│   └── system_overview.png
-├── README.md
-```
 
 ---
 
@@ -128,7 +113,6 @@
 
 ## 🔧 后续优化方向
 
-* 加入锁相环（PLL）实现并网控制
 * 优化PR参数，提高动态响应性能
 * 引入数字控制（离散化实现）
 * 在DSP平台（如TI C2000）进行实机验证
